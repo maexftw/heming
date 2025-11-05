@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" version="1.1">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<g aria-label="Stratigraphy H">
+        <rect x="130.0" y="170.0" width="60.0" height="86.66666666666667" fill="#F36F21"/>
+        <rect x="130.0" y="256.6666666666667" width="60.0" height="86.66666666666667" fill="#F54021"/>
+        <rect x="130.0" y="343.33333333333337" width="60.0" height="86.66666666666667" fill="#000000"/>
+        
+        <rect x="310.0" y="170.0" width="60.0" height="86.66666666666667" fill="#F36F21"/>
+        <rect x="310.0" y="256.6666666666667" width="60.0" height="86.66666666666667" fill="#F54021"/>
+        <rect x="310.0" y="343.33333333333337" width="60.0" height="86.66666666666667" fill="#000000"/>
+        <rect x="130.0" y="280.0" width="210.0" height="40.0" fill="#F54021"/><polygon points="340.0,280.0 370.0,300 340.0,320.0" fill="#F54021"/></g>
+<g aria-label="HEMING wordmark" transform="translate(420,330)">
+  <text x="0" y="0" fill="#000000" font-family="DIN, 'DIN Alternate', 'Eurostile', 'Microgramma', Inter, Arial, sans-serif" font-size="160" font-weight="700" letter-spacing="0">HEMING</text>
+  <text x="4" y="76.8" fill="#6B6B6B" font-family="DIN, 'DIN Alternate', 'Eurostile', 'Microgramma', Inter, Arial, sans-serif" font-size="35.2" font-weight="600">Erd- & Tiefbau · Abbruch · Transporte</text>
+</g>
+
+</svg>
